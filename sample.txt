@@ -3,3 +3,5 @@ Adding this line for the secod revision of the sample.txt file.
 Adding a second conflict line.
 Adding another change to simulate a merge conflict.
 
+Testing the GUI.
+
